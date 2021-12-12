@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4e30268-c621-4933-8838-667e1370e717": {
+      "ProjectGuid": "a4e30268-c621-4933-8838-667e1370e717",
+      "DisplayName": "ATM app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
